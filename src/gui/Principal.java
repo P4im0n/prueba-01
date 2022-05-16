@@ -119,5 +119,6 @@ public class Principal extends JFrame implements ActionListener {
 	}
 	protected void actionPerformedMntmSalir(ActionEvent e) {
 		dispose();
+		// D://
 	}
 }
